@@ -8,10 +8,10 @@ After succesful login authenticacion and checking validity of credit card, the u
 * Deposit cash.
 
 Environment used for this app :
-Java V8.
-Ecplise (Neon) IDE.
-DB MySQL.
-Swing GUI.
-External APIs : mysql-connector-java-5.1.43-bin, jdatepicker-1.3.4.jar.
+* Java V8.
+* Ecplise (Neon) IDE.
+* DB MySQL.
+* Swing GUI.
+* External APIs : mysql-connector-java-5.1.43-bin, jdatepicker-1.3.4.jar.
 
 
